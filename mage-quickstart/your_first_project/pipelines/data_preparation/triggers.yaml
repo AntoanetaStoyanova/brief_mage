@@ -1,0 +1,14 @@
+triggers:
+- description: null
+  envs: []
+  last_enabled_at: null
+  name: symmetrical moon
+  pipeline_uuid: data_preparation
+  schedule_interval: null
+  schedule_type: null
+  settings: null
+  sla: null
+  start_time: null
+  status: inactive
+  token: 107b01fefcca4d389bfa190d9d399c33
+  variables: null
